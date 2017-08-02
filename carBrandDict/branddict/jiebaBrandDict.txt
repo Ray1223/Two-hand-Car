@@ -1,0 +1,421 @@
+﻿benz 100
+benz 100
+mercedes_benz 80
+梅賽德斯 80
+賓士 100
+梅赛德斯 80
+奔驰 80
+奔馳 80
+平治 80
+朋馳 80
+a_class 80
+s_class 80
+amggt 80
+amg 80
+b_class 80
+c_class coupe 80
+c_class estate 80
+c_class sedan 80
+c_class 80
+c240 80
+cla shooting brake 80
+cla_class 80
+cla 80
+cl_class 80
+clk_class 80
+cls shooting brake 80
+cls_class 80
+cls 80
+e_class cabriolet 80
+e_class coupe 80
+e_class estate 80
+e_class sedan 80
+e_class 80
+g_class 80
+gla_class 80
+glc coupe 80
+glc_class 80
+glc 80
+gl_class 80
+gle coupe 80
+gle_class 80
+gle 80
+glk_class 80
+gls_class 80
+m_class 80
+bmw 100
+bmw 100
+巴依爾 80
+bavarian motor works 80
+寶馬 100
+巴伐利亞發動機製造廠股份有限公司 80
+1_series coupe 80
+1 series 80
+1_series 80
+2_series active tourer 80
+2_series active 80
+2_series convertible 80
+2_series gran tourer 80
+2_series gran 80
+2_series 80
+3 series convertible 80
+3 series coupe 80
+3 series sedan 80
+3 series touring 80
+3 series 80
+3_series convertible 80
+3_series coupe 80
+3_series gt 80
+3_series sedan 80
+3_series touring 80
+3_series 80
+4_series convertible 80
+4_series gran 80
+4_series gran coupe 80
+4_series 80
+5_series gt 80
+5_series sedan  80
+5_series touring 80
+5_series 80
+6_series gran coupe 80
+6_series coupe 80
+6_series gran 80
+6_series 80
+7_series 80
+i3 80
+i8 80
+m3 80
+m5 80
+m6 80
+x1 80
+x3 xdrive 80
+x3 80
+x4 80
+x5 xdrive 80
+x5 80
+x6 xdrive 80
+x6 80
+z4 coupe 80
+z4 80
+e12 80
+e20 80
+e21 80
+e23 80
+e24 80
+e26 80
+e28s 80
+e28 80
+e30 80
+e30 80
+z1 80
+e31 80
+e32 80
+e34s 80
+e34 80
+e36 80
+e36 80
+e38 80
+e39s 80
+e39 80
+e46 80
+e46 80
+e52 80
+e53 80
+e59 80
+e60 80
+e61 80
+e63 80
+e64 80
+e65 80
+e66 80
+e70 80
+e71 80
+e72 80
+e81 80
+e82 80
+e83 80
+e84 80
+e85 80
+e86 80
+e87 80
+e88 80
+e89 80
+e90 80
+e91 80
+e92 80
+e93 80
+f01 80
+f02 80
+f03 80
+f04 80
+f06 80
+f07 80
+f10 80
+f11 80
+f12 80
+f13 80
+f15 80
+f16 80
+f18 80
+f20 80
+f21 80
+f22 80
+f23 80
+f25 80
+f26 80
+f30 80
+f31 80
+f32 80
+f33 80
+f34 80
+f35 80
+f36 80
+f45 80
+f46 80
+f47 80
+f48 80
+f52 80
+f80 80
+f82 80
+f83 80
+f85 80
+f86 80
+f87 80
+g01 80
+g11 80
+g12 80
+g15 80
+g20 80
+g30 80
+g90 80
+ford 100
+ford 100
+福特 100
+nyse 80
+econovan 80
+ecosport 80
+escape 80
+fiesta 4d 80
+fiesta 5d 80
+fiesta 80
+focus 4d 80
+focus 5d 80
+focus powershift 80
+focus 80
+i_max 80
+kuga 80
+mondeo tdci 80
+mondeo 80
+mustang 80
+ranger 80
+tourneo custom 80
+tourneo 80
+honda 100
+honda 100
+台灣本田重機 80
+本田 80
+accord 80
+雅哥 100
+city 80
+civic 80
+喜美 100
+cr_v 80
+crv3 80
+crv 80
+cr_z 80
+crz80
+fit 80
+hr_v 80
+insight hybrid 80
+insight 80
+legend 80
+nsx 80
+odyssey 80
+lexus 100
+lexus 100
+凌志 100
+淩志 80
+200h 80
+200t 80
+300h 80
+400h 80
+450h 80
+460l 80
+600h 80
+600hl 80
+f 極致版 80
+lc500 80
+lc500h 80
+lexus CT 80
+lexus ES 80
+lexus GS 80
+lexus IS 80
+lexus LC 80
+lexus LS 80
+lexus LX 80
+lexus NX 80
+lexus RC 80
+mazda 100 
+mazda 100
+馬自達 100
+マツダ 80
+萬事得 80
+松田 80
+cx_3 80
+cx_5 80
+cx_7 80
+cx_9 80
+馬2 80
+馬3 80
+馬5 80
+馬6 80
+mazda 2 80
+mazda 3 4d 80
+mazda 3 5d 80
+mazda 3 80
+mazda 5 80
+mazda 6 wagon 80
+mazda 6 80
+mazda cx_3 80
+mazda cx_5 80
+mazda cx_7 80
+mazda cx_9 80
+mazda mx_5 80
+mazda tribute 80
+mx_5 80
+tribute 80
+mitsubishi 100
+mitsubishi 100
+三菱 100
+asx 80
+boss zinger 80
+boss 80
+colt plus 80
+colt 80
+grunder 80
+lancer fortis 80
+lancer io 80
+lancer sportback 80
+lancer 80
+outlander 80
+pajero三門款 80
+pajero五門款 80
+pajero 80
+savrin inspire 80
+savrin 80
+space gear 80
+space 80
+super zinger 80
+super 80
+virage 80
+zinger 80
+nissan 100
+nissan 100
+日產 80
+350z 80
+370 z coupe 80
+370z coupe 80
+370z roadster 80
+370 z 80
+bluebird sylphy 80
+bluebird 80
+sylphy 80
+grand livina 80
+grand 80
+gt_r 80
+juke 80
+livina 80
+march 80
+murano 80
+new bluebird 80
+quest 80
+rogue 80
+sentra 80
+serena 80
+teana 80
+tiida 4d 80
+tiida 5d 80
+tiida 80
+x_trail 80
+toyota 100
+toyota 100
+豐田 80
+トヨタ 80
+tmc 80
+toyota 86 80
+alpha 80
+alphard 80
+altis 80
+camry 80
+c_hr 80
+corolla altis 80
+corolla 80
+cruiser 80
+hybrid 80
+innova 80
+land 80
+land cruiser 80
+phv 80
+previa 80
+prius alpha 80
+prius c 80
+prius hybrid 80
+prius phv 80
+prius 80
+rav4 80
+sienna 80
+sienta 80
+vios 80
+vios 1.5E 80
+vios 1.5J 80
+wish 80
+toyota x 80
+yaris 80
+volkswagen 100
+volkswagen 100
+福斯 100
+vw 100
+大眾集團 80
+amarok 80
+beetle 80
+caddy maxi 80
+caddy 80
+california 80
+caravelle 80
+VW CC 80
+福斯 CC 80
+Volkswagen CC 80
+crafter gp 80
+crafter 80
+eos 80
+freestyle  80
+golf gti 80
+golf plus 80
+golf r32 80
+golf variant 80
+golf 80
+jetta 80
+kombi 80
+multivan 80
+new bettle 80
+vw new 80
+福斯 new 80
+volkswagen new 80
+new 80
+passat 80
+passat cc 80
+passat sedan 80
+passat variant 80
+passat variant r36 80
+phaeton 80
+polo 80
+scirocco 80
+sharan 80
+sportsvan 80
+t5 80
+tiguan gp 80
+tiguan 80
+touareg r50 80
+touareg 80
+touran 80
+vento 80
